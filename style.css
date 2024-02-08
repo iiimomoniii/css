@@ -1,0 +1,35 @@
+/* Import the Kanit font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+/* Apply the Kanit font to elements */
+body {
+  font-family: 'Kanit', sans-serif;
+}
+
+/* Example of applying Kanit font to specific elements */
+h1, h2, h3 {
+  font-family: 'Kanit', sans-serif;
+}
+
+/* Example of applying different font weights */
+.bold {
+  font-weight: bold;
+}
+
+.light {
+  font-weight: 300; /* Light weight */
+}
+
+/* Example of applying different font styles */
+.italic {
+  font-style: italic;
+}
+
+/* Example of applying different font sizes */
+.large-text {
+  font-size: 24px;
+}
+
+.small-text {
+  font-size: 14px;
+}
